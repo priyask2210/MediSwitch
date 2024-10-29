@@ -110,7 +110,7 @@ function App() {
 
         {/* WhatsApp and Chatbot Icons */}
         <div className="icons">
-          <a href="https://wa.me/your-whatsapp-number" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/9790782798" target="_blank" rel="noopener noreferrer">
             <img src="/whatsapp-icon.png" alt="WhatsApp" className="icon" />
           </a>
           <a href="/chatbot" className="icon">
